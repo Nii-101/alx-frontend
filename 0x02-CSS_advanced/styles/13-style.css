@@ -46,6 +46,8 @@ a[href]:link{
 }
 
 a[href]:visited{
+  color: var(--text-color);
+  text-decoration: none;
   font-style: italic;
 }
 
